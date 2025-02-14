@@ -1,0 +1,10 @@
+Тесты написаны на проверку через браузер firefox, драйвер для него который надо будет поместить в path: https://github.com/mozilla/geckodriver/releases
+
+и нужно будет установить через терминал: 
+pip install selenium
+pip install selenium mysql-connector-python
+pip install requests
+
+нормальный быстрый гайд на ютубе: https://www.youtube.com/watch?v=KYaSTWTh0uI&ab_channel=ZProger%5BIT%5D
+
+
